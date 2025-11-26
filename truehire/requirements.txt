@@ -1,0 +1,16 @@
+# Combined dependency manifest for TrueHire scaffold (reference only)
+
+# Backend (node) dependencies (see backend/package.json)
+# bcryptjs, body-parser, cors, dotenv, express, jsonwebtoken, openai, prisma, @prisma/client
+
+# Backend devDependencies
+# ts-node-dev, typescript, eslint, @types/express, @types/node
+
+# Frontend (node) dependencies (see frontend/package.json)
+# axios, react, react-dom, react-router-dom, @tanstack/react-query, zod, react-hook-form
+
+# Frontend devDependencies
+# @types/react, @types/react-dom, typescript, vite, @vitejs/plugin-react, tailwindcss, postcss, autoprefixer, eslint, eslint-plugin-react
+
+# Note: This is a human-readable manifest for reference. Use the installer script to perform installs:
+# ./install-deps.sh

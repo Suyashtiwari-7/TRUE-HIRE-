@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --card: 255 255 255;
+  }
+  body {
+    @apply text-neutral-900;
+  }
+}
+
+@layer components {
+  .pill {
+    @apply rounded-pill px-4 py-2 border border-neutral-200 bg-white shadow-sm hover:shadow-soft transition;
+  }
+  .pill-active {
+    @apply bg-neutral-900 text-white border-neutral-900;
+  }
+  .btn {
+    @apply rounded-pill px-5 py-3 font-medium bg-neutral-900 text-white hover:bg-black transition;
+  }
+  .btn-ghost {
+    @apply rounded-pill px-5 py-3 font-medium bg-white border border-neutral-200 hover:shadow-soft;
+  }
+  .card {
+    @apply bg-white rounded-2xl shadow-soft border border-neutral-200;
+  }
+  .input {
+    @apply w-full rounded-pill border border-neutral-200 bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-neutral-700/10;
+  }
+  .chip {
+    @apply inline-flex items-center rounded-pill border border-neutral-200 px-3 py-1 text-sm bg-white;
+  }
+}

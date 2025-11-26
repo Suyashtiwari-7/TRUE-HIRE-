@@ -1,0 +1,5 @@
+truehire/frontend/node_modules/
+truehire/backend/node_modules/
+node_modules/
+dist/
+.env
