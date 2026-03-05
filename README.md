@@ -117,3 +117,13 @@ netlify deploy --prod
 |     Jobs | #################  | **45%** |
 |    Users | #######            | **18%** |
 |     Misc | ###                | **12%** |
+
+OUTPUT:-
+<img width="1280" height="765" alt="image" src="https://github.com/user-attachments/assets/cbe63850-5310-4705-b43c-1d33639024e3" />
+<img width="1280" height="762" alt="image" src="https://github.com/user-attachments/assets/857ff15f-bc4c-44c1-9f97-b8e44121466d" />
+<img width="1280" height="762" alt="image" src="https://github.com/user-attachments/assets/d67eed52-1dff-4d59-bab6-01afb317a6a3" />
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/fff014a6-a0de-4396-a977-6f80cdd5004f" />
+
+
+
+
