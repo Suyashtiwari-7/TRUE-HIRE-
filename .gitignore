@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+truehire/backend/node_modules/
+
+# Build output
+dist/
+build/
+.vite/
+
+# Environment variables (never commit real keys!)
+.env
+truehire/backend/.env
+truehire/.env
+
+# Runtime data files (generated at runtime)
+truehire/backend/data/db.json
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/

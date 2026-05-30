@@ -1,0 +1,9 @@
+# Ignore local environment files and node modules for backend
+.env
+node_modules/
+dist/
+data/
+*.db
+*.log
+npm-debug.log*
+.DS_Store
